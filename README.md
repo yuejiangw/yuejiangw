@@ -1,8 +1,4 @@
-### Hi there 👋, welcome to my page.
-
-
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge)
+### Hi there 👋, welcome to my page.				![visitors](https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge)
 
 
 
