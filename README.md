@@ -1,4 +1,5 @@
-<h2> Hey there 👋, I'm Yuejiang Wu. </h2> &nbsp;&nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge)
+<h2> Hey there 👋, I'm Yuejiang Wu.  ![visitors](https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge)
+</h2>
 
 <!-- <img align="right" alt="GIF" src="./assets/coding.gif" width="500"/> -->
 
@@ -44,11 +45,11 @@
 </div>
 <br>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" alt="226wyj's Github Stats">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats">
 
 </br>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&text_color=daf7dc&bg_color=151515)](https://github.com/devSouvik/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift)](https://github.com/devSouvik/github-readme-stats)
 
 
 <!-- <h3> 🤝🏻 Connect with Me </h3>
