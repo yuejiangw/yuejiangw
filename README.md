@@ -45,7 +45,8 @@
 </div>
 
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats)
 
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=226wyj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
@@ -60,13 +61,13 @@
 
 
 
-
-<!-- <h3> 🤝🏻 Connect with Me </h3>
+<br />
+<h3> 🤝🏻 Connect Me </h3>
 
 <p align="center">
 &nbsp; 
 &nbsp;   
-&nbsp; <a href="https://www.linkedin.com/in/zhen-cheng-587897227/" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
-&nbsp; <a href="mailto:czhappy1998@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
-</p> -->
+&nbsp; <a href="https://www.linkedin.com/in/yuejiangwu/?locale=en_US" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/linkedin.png" width="50" /></a>
+&nbsp; <a href="mailto:wuyuejiang123@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.icons8.com/plasticine/100/000000/gmail.png"  width="50" /></a>
+</p>
 
