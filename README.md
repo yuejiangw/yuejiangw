@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
 
-<img alt="GIF" src="hello.gif" style="text-align: right; width: 300px"/>
+<img alt="GIF" src="hello.gif" style="float: right; width: 300px"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
