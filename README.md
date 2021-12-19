@@ -1,4 +1,5 @@
-<h2> Hey there 👋, I'm Yuejiang Wu.  ![visitors](https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge)
+<h2> Hey there 👋, I'm Yuejiang Wu. &nbsp;&nbsp;
+<img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
 
 <!-- <img align="right" alt="GIF" src="./assets/coding.gif" width="500"/> -->
@@ -43,14 +44,16 @@
     <img height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_apple_mac_65.png">
 </div>
-<br>
+
+<br/>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats">
 
-</br>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift)](https://github.com/devSouvik/github-readme-stats)
 
+<br/>
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=226wyj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <h3> 🤝🏻 Connect with Me </h3>
 
