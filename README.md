@@ -2,9 +2,6 @@
 <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
 
-<img align="right" alt="GIF" src="https://giphy.com/embed/MeJgB3yMMwIaHmKD4z" width="500"/>
-
-
 <h3> 👨🏻‍💻 About Me </h3>
 
 - 🔭 &nbsp; I’m currently a second-year MSCS student at [CIMS of NYU](https://cims.nyu.edu/dynamic/).
