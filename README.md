@@ -45,22 +45,22 @@
 </div>
 
 
-<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats)
 
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=226wyj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" />
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" /> -->
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" /> -->
 
 
-<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats) -->
 
 
 
-<!-- <br/>
-[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=226wyj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
+
+
 
 <!-- <h3> 🤝🏻 Connect with Me </h3>
 
