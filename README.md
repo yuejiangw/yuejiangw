@@ -48,10 +48,10 @@
 <!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" />
-</p>
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" />
+
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" /> -->
 
