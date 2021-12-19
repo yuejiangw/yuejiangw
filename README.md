@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
 
-<img align="right" alt="GIF" src="hello.gif" width="500"/>
+<img alt="GIF" src="hello.gif" style="text-align: right; width: 300px"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -46,7 +46,7 @@
 
 <br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats"> -->
