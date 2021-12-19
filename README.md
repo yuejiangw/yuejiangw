@@ -1,6 +1,9 @@
-<h2> Hey there 👋, I'm Yuejiang Wu. &nbsp;&nbsp;
-<img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
+<h2>
+    Hey there 👋, I'm Yuejiang Wu. &nbsp;&nbsp;
+    <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
+
+<img align="right" alt="GIF" src="hello.gif" width="500"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -33,7 +36,7 @@
     <img height="45" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
     <img height="40", src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png">
-    <img height="40" src="https://cdn.icon-icons.com/icons2/1381/PNG/512/pycharm_93936.png">
+    <img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_pycharm_macos_bigsur_icon_190055.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png">
@@ -43,7 +46,10 @@
 
 <br/>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats">
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&layout=compact&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
+
+
+<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats"> -->
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift)](https://github.com/devSouvik/github-readme-stats)
