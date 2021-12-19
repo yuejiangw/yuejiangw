@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
 
-<img alt="GIF" align="right", src="hello.gif" style="width: 300px; margin: 10%"/>
+<img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -44,24 +44,16 @@
     <img height="40" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_apple_mac_65.png">
 </div>
 
-<br/>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)
-
-
-<!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats"> -->
+<!-- [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats) -->
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift)](https://github.com/devSouvik/github-readme-stats)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats" />
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" />
 
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/anuraghazra/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
-</a>
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats) -->
 
 
 
