@@ -3,7 +3,7 @@
     <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
 </h2>
 
-<img alt="GIF" src="hello.gif" style="float: right; width: 300px"/>
+<img alt="GIF" align="right", src="hello.gif" style="width: 300px; margin: 10%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
@@ -53,6 +53,17 @@
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift)](https://github.com/devSouvik/github-readme-stats)
+
+
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=github-readme-stats" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=anuraghazra&repo=convoychat" />
+</a>
+
+
 
 <!-- <br/>
 [![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=226wyj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph) -->
