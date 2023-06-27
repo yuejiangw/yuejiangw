@@ -1,25 +1,23 @@
 <h2>
-    Hey there 👋, I'm Yuejiang Wu. &nbsp;&nbsp;
-    <img src="https://visitor-badge.glitch.me/badge?page_id=wyj.visitor-badge" alt="visitor badge"/>
+    Hey there 👋, welcome to my profile page. &nbsp;&nbsp;
 </h2>
 
 <img alt="GIF" align="right" src="hello.gif" style="width: 300px; margin: 10%"/>
 
 <h3> 👨🏻‍💻 About Me </h3>
 
-- 🔭 &nbsp; I’m currently a second-year MSCS student at [CIMS of NYU](https://cims.nyu.edu/dynamic/).
-- 🎓 &nbsp; Before that, I received my B.E. degree at [Northeastern University](http://english.neu.edu.cn/), majoring in Computer Science and Technology.
-- 💼 &nbsp; I hope to be a Software Development Engineer.
+- 💼 &nbsp; I'm currently working as a Software Engineer at Indeed, inc.
+- 🎓 &nbsp; I received my M.S. degree at [NYU](https://cims.nyu.edu/dynamic/), and B.E. degree at [NEU](http://english.neu.edu.cn/).
 - 🌱 &nbsp; Enthusiast in software engineering and artificial intelligence.
 - 🕹 &nbsp; Guitar, Pingpong, Swimming, Overwatch...
 - 📙 &nbsp; I like writing [blogs](https://www.jianshu.com/u/8041c26a331e) to summarize what I have learnt, unfortunately there are only Chinese articles so far.
 
 <h3>🛠 Tech Stack</h3>
 
-- ⚡ &nbsp; Java | Python | C++ | HTML | CSS | JavaScript 
-- 🌐 &nbsp; PyTorch | Flask ｜SpringBoot
+- ⚡ &nbsp; Java | Python | C++ | TypeScript 
+- 🌐 &nbsp; PyTorch | Flask ｜SpringBoot | React.js
 - 🚀 &nbsp; Algorithm | ML/DL | 
-- 🛢 &nbsp; MySQL | Docker
+- 🛢 &nbsp; MySQL | MongoDB | Docker
 - 🔧 &nbsp; VS Code | PyCharm | IntelliJ IDEA | Git 
 - 🖥 &nbsp; Linux | Windows | Mac
 <div>
@@ -45,9 +43,6 @@
 </div>
 
 <br />
-
-
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift)](https://github.com/anuraghazra/github-readme-stats)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true)](https://github.com/devSouvik/github-readme-stats)[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=226wyj&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 <!-- <img align="center" src="https://github-readme-stats.vercel.app/api?username=226wyj&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=swift" alt="226wyj's Github Stats" /><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=226wyj&layout=compact&theme=swift&count_private=true" alt="226wyj's Language Stats" /> -->
 
