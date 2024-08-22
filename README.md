@@ -30,6 +30,7 @@
     <img height="40", src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2699/PNG/512/pytorch_logo_icon_170820.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2148/PNG/512/flask_icon_132389.png">
+    <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png">
     <img height="40" src="https://user-images.githubusercontent.com/33158051/103466606-760a4000-4d14-11eb-9941-2f3d00371471.png">
     <img height="45" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/mysql_original_wordmark_logo_icon_146417.png">
     <img height="40", src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png">
@@ -38,8 +39,6 @@
     <img height="40" src="https://cdn.icon-icons.com/icons2/3053/PNG/512/intellij_macos_bigsur_icon_190061.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2406/PNG/512/github_git_icon_145985.png">
     <img height="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/512/linux_original_logo_icon_146433.png">
-    <img height="40" src="https://cdn.icon-icons.com/icons2/836/PNG/512/Windows_Phone_icon-icons.com_66782.png">
-    <img height="40" src="https://cdn.icon-icons.com/icons2/1/PNG/256/social_apple_mac_65.png">
 </div>
 
 <br />
